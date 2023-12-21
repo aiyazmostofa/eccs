@@ -1,0 +1,5 @@
+* Electrochemical Cell Simulator
+I made this for extra credit in Mr. Shull's chemistry class.
+
+** License
+[[file:LICENSE][GNU General Public License v3.0]]
